@@ -1,3 +1,1 @@
-# assignment_hactiv
-# assignment_hactiv
-# assignment_hactiv
+this is assignment of data science class Havtice batch 103
